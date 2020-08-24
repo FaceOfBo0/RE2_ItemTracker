@@ -1,7 +1,7 @@
 # RE2 ItemTracker
-Program to track items for Resident Evil 2 (2019) Item Randomizer
+Program to track items for Resident Evil 2 (2019) Item Randomizer v1.0 (240820)
 
-v1.0 (240820)
+For the program to be visible while you are playing, change the "Display Mode" to "Borderless Windpow".
 
 double-click (and hold) to move window
 right-click to open menu
