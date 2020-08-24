@@ -1,5 +1,5 @@
 # RE2 ItemTracker
-Program to track Items for Resident Evil 2 (2019) Item Randomizer
+Program to track items for Resident Evil 2 (2019) Item Randomizer
 
 v1.0 (240820)
 
