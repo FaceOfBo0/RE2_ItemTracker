@@ -6,6 +6,7 @@ Required: .NET Core 3.1
 For the program to be visible while you are playing, in RE2 change "Display Mode" to "Borderless Window".
 
 double-click (and hold) to move window
+
 right-click to open menu
 
 Menu:
