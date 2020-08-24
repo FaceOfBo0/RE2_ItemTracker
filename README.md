@@ -8,5 +8,4 @@ right-click to open menu
 
 Menu:
 - select scenario (Leon B, Claire A, etc.)
-- save/load progress (first select scenario then load file)
-(if the save/load doesn't work correctly try starting it as admin)
+- save/load progress (first select scenario then load file; if the save/load doesn't work correctly try starting the program as admin)
