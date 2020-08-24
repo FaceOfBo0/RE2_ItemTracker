@@ -1,0 +1,120 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Pictures\icon_Nor_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="battery.png" />
+    <None Remove="bejeweled-box.png" />
+    <None Remove="bishop-plug.png" />
+    <None Remove="bolt-cutter.png" />
+    <None Remove="boxed-electronic-part.png" />
+    <None Remove="car-key.png" />
+    <None Remove="club-key.png" />
+    <None Remove="courtyard-key.png" />
+    <None Remove="diamond-key.png" />
+    <None Remove="dispersal-cartridge-empty.png" />
+    <None Remove="electronic-gadget.png" />
+    <None Remove="fuse-break-room-hallway.png" />
+    <None Remove="fuse-main-hall.png" />
+    <None Remove="heart-key.png" />
+    <None Remove="id-wristband-admin.png" />
+    <None Remove="id-wristband-general-staff.png" />
+    <None Remove="id-wristband-senior-staff.png" />
+    <None Remove="id-wristband-visitor.png" />
+    <None Remove="joint-plug.png" />
+    <None Remove="king-plug.png" />
+    <None Remove="knight-plug.png" />
+    <None Remove="large-gear.png" />
+    <None Remove="lion-medallion.png" />
+    <None Remove="lovers-relief.png" />
+    <None Remove="maiden-medallion.png" />
+    <None Remove="mechanic-jack-handle.png" />
+    <None Remove="orphanage-key.png" />
+    <None Remove="parking-garage-key-card.png" />
+    <None Remove="pawn-plug.png" />
+    <None Remove="picture-block.png" />
+    <None Remove="power-panel-part.png" />
+    <None Remove="queen-plug.png" />
+    <None Remove="red-book-art-object.png" />
+    <None Remove="red-jewel.png" />
+    <None Remove="rook-plug.png" />
+    <None Remove="scepter.png" />
+    <None Remove="scissors.png" />
+    <None Remove="sewers-key.png" />
+    <None Remove="signal-modulator.png" />
+    <None Remove="small-gear.png" />
+    <None Remove="spade-key.png" />
+    <None Remove="spare-key.png" />
+    <None Remove="square-crank.png" />
+    <None Remove="stars-badge.png" />
+    <None Remove="statues-left-arm.png" />
+    <None Remove="stuffed-doll.png" />
+    <None Remove="t-bar-valve-handle.png" />
+    <None Remove="tin-storage-box.png" />
+    <None Remove="unicorn-medallion.png" />
+    <None Remove="valve-handle.png" />
+    <None Remove="weapons-locker-key-card.png" />
+    <None Remove="wooden-box.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Pictures\battery.png" />
+    <Resource Include="Pictures\bejeweled-box.png" />
+    <Resource Include="Pictures\bishop-plug.png" />
+    <Resource Include="Pictures\bolt-cutter.png" />
+    <Resource Include="Pictures\boxed-electronic-part.png" />
+    <Resource Include="Pictures\car-key.png" />
+    <Resource Include="Pictures\club-key.png" />
+    <Resource Include="Pictures\courtyard-key.png" />
+    <Resource Include="Pictures\diamond-key.png" />
+    <Resource Include="Pictures\dispersal-cartridge-empty.png" />
+    <Resource Include="Pictures\electronic-gadget.png" />
+    <Resource Include="Pictures\fuse-break-room-hallway.png" />
+    <Resource Include="Pictures\fuse-main-hall.png" />
+    <Resource Include="Pictures\heart-key.png" />
+    <Resource Include="Pictures\id-wristband-admin.png" />
+    <Resource Include="Pictures\id-wristband-general-staff.png" />
+    <Resource Include="Pictures\id-wristband-senior-staff.png" />
+    <Resource Include="Pictures\id-wristband-visitor.png" />
+    <Resource Include="Pictures\joint-plug.png" />
+    <Resource Include="Pictures\king-plug.png" />
+    <Resource Include="Pictures\knight-plug.png" />
+    <Resource Include="Pictures\large-gear.png" />
+    <Resource Include="Pictures\lion-medallion.png" />
+    <Resource Include="Pictures\lovers-relief.png" />
+    <Resource Include="Pictures\maiden-medallion.png" />
+    <Resource Include="Pictures\mechanic-jack-handle.png" />
+    <Resource Include="Pictures\orphanage-key.png" />
+    <Resource Include="Pictures\parking-garage-key-card.png" />
+    <Resource Include="Pictures\pawn-plug.png" />
+    <Resource Include="Pictures\picture-block.png" />
+    <Resource Include="Pictures\power-panel-part.png" />
+    <Resource Include="Pictures\queen-plug.png" />
+    <Resource Include="Pictures\red-book-art-object.png" />
+    <Resource Include="Pictures\red-jewel.png" />
+    <Resource Include="Pictures\rook-plug.png" />
+    <Resource Include="Pictures\scepter.png" />
+    <Resource Include="Pictures\scissors.png" />
+    <Resource Include="Pictures\sewers-key.png" />
+    <Resource Include="Pictures\signal-modulator.png" />
+    <Resource Include="Pictures\small-gear.png" />
+    <Resource Include="Pictures\spade-key.png" />
+    <Resource Include="Pictures\spare-key.png" />
+    <Resource Include="Pictures\square-crank.png" />
+    <Resource Include="Pictures\stars-badge.png" />
+    <Resource Include="Pictures\statues-left-arm.png" />
+    <Resource Include="Pictures\stuffed-doll.png" />
+    <Resource Include="Pictures\t-bar-valve-handle.png" />
+    <Resource Include="Pictures\tin-storage-box.png" />
+    <Resource Include="Pictures\unicorn-medallion.png" />
+    <Resource Include="Pictures\valve-handle.png" />
+    <Resource Include="Pictures\weapons-locker-key-card.png" />
+    <Resource Include="Pictures\wooden-box.png" />
+  </ItemGroup>
+
+</Project>
