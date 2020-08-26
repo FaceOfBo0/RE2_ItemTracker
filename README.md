@@ -1,5 +1,7 @@
 # RE2 ItemTracker
-Program to track items for Resident Evil 2 (2019) Item Randomizer v1.0 (240820)
+Program to track items for Resident Evil 2 (2019) Item Randomizer
+
+v1.0 (240820)
 
 Required: .NET Core 3.1
 
